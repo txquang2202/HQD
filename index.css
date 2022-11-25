@@ -1,7 +1,6 @@
 header{
     background-color: white;
 }
-
 .title {
   background-color: white;
 }
@@ -10,19 +9,8 @@ body{
 }
 .py-3{
     background: #F5F5F5;
-}
-.datejoint{
-position: absolute;
-width: 102px;
-height: 18px;
-
-font-family: 'Inter';
-font-style: normal;
-font-weight: 400;
-font-size: 15px;
-line-height: 18px;
-
-color: #7A7A7A;
+    padding-top: 0rem!important;
+    padding-bottom: 0rem!important
 }
 .admin {
     height: 7px;
@@ -67,5 +55,24 @@ color: #7A7A7A;
     background: #BA68C8;
     color: #fff;
     cursor: pointer;
-    border: solid 1px #BA68C8
+    border: 
+    solid 1px #BA68C8
+}
+.text-right{
+position: absolute;
+width: 380px;
+height: 48px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+}
+.profile-button {
+    background: #EE4510;
+    box-shadow: none;
+    border: none;
 }
